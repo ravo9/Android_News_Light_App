@@ -2,7 +2,7 @@
 
 A demo app presenting architecture based on MVVM, Repository and Interactor patterns - including Dependency Injection implementation.
 
-1.The architecture of app has been based on the MVVM design pattern.
+1. The architecture of app has been based on the MVVM design pattern.
 
 2. Each view consists of Activity/ Fragment (View layer) and its appropriate ViewModel.
 
