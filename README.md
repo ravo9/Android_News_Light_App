@@ -24,5 +24,7 @@ UI Tests are created using Espresso framework.
 
 
 Please do not hesitate to ask in case of any further questions. I will be happy to clarify each uncertainty.
+
 I hope you like my app.
+
                                                                                                     Rafal Ozog
